@@ -1,6 +1,10 @@
 div.splash-container div.splash { width: 100%; height: 100%; }
 .footer.l-box.is-center { color: #eee; }
 .layout-menu-about li a { color: #eee; font-size: 1.2em; }
+#menu-navigation li {
+  margin-left: 20px;
+
+}
 .layout-menu-about li a:hover { color: #a3deef; text-decoration: none; }
 .email-main { cursor: pointer; color: #004a8f; font-size: 3em; text-transform: uppercase; }
 .slogan { font-size: 2em; color: #a3deef; font-weight: bold; }
